@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NaveenPolampalli
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning full stack development
+- 🌱 Currently working as a software engineer 
 - 💞️ I’m looking to collaborate on ...
 - 📫 seee u  here....>> navenpolampalli1433@gmail.com
 
